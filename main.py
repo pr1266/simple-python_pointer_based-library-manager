@@ -1,3 +1,7 @@
+"""
+Designed and created by Pourya Pooryeganeh
+2018 Fall
+"""
 from library import *
 from books import *
 from persons import *
